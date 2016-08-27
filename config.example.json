@@ -1,0 +1,6 @@
+{
+   "installed":{
+       # Secrets from Google
+   },
+   "write_to": "events.json"
+}
